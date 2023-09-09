@@ -2,7 +2,7 @@
 from dataclasses import dataclass
 from enum import Enum
 
-USER_ADULT_AGE = 18
+USER_ADULT_AGE = 20
 
 
 class Status(Enum):
